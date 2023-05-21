@@ -1,7 +1,7 @@
 Codewars
 ========
 
-*Solved problems from https://www.codewars.com/*  
+*Completed kata from https://www.codewars.com/*  
 *Profile: https://www.codewars.com/users/TellMeImPretty*
 
 | Rank | Kata | Solution |
