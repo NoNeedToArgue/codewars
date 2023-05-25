@@ -6,6 +6,7 @@ Codewars
 
 | Rank | Kata | Solution |
 |---| ----- | -------- |
+|4|[Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046) | [C#](./csharp/BreadcrumbGenerator.cs)|
 |4|[Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f) | [C#](./csharp/SumByFactors.cs)|
 |5|[PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a) | [C#](./csharp/PaginationHelper.cs)|
 |5|[Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335) | [C#](./csharp/Tic-Tac-ToeChecker.cs)|
@@ -18,3 +19,7 @@ Codewars
 |6|[Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) | [C#](./csharp/PersistentBugger.cs)|
 |6|[Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) | [C#](./csharp/AreTheyTheSame.cs)|
 |6|[Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) | [C#](./csharp/MultiplesOf3Or5.cs)|
+|6|[Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) | [C#](./csharp/WriteNumberInExpandedForm.cs)|
+|6|[Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) | [C#](./csharp/BitCounting.cs)|
+|6|[Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [C#](./csharp/IsANumberPrime.cs)|
+|6|[Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) | [C#](./csharp/PlayingWithDigits.cs)|
