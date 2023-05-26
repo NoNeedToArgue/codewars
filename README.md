@@ -6,6 +6,7 @@ Codewars
 
 | Rank | Kata | Solution |
 |---| ----- | -------- |
+|3|[Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7) | [C#](./csharp/BattleshipFieldValidator.cs)|
 |4|[Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046) | [C#](./csharp/BreadcrumbGenerator.cs)|
 |4|[Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f) | [C#](./csharp/SumByFactors.cs)|
 |5|[PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a) | [C#](./csharp/PaginationHelper.cs)|
@@ -23,3 +24,5 @@ Codewars
 |6|[Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) | [C#](./csharp/BitCounting.cs)|
 |6|[Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [C#](./csharp/IsANumberPrime.cs)|
 |6|[Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) | [C#](./csharp/PlayingWithDigits.cs)|
+|6|[Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [C#](./csharp/CountingDuplicates.cs)|
+|6|[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [C#](./csharp/WhoLikesIt.cs)|
