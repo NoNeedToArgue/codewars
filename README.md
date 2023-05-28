@@ -8,6 +8,7 @@ Codewars
 |---| ----- | -------- |
 |3|[Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7) | [C#](./csharp/BattleshipFieldValidator.cs)|
 |4|[Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046) | [C#](./csharp/BreadcrumbGenerator.cs)|
+|4|[Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [C#](./csharp/Snail.cs)|
 |4|[Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f) | [C#](./csharp/SumByFactors.cs)|
 |5|[PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a) | [C#](./csharp/PaginationHelper.cs)|
 |5|[Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335) | [C#](./csharp/Tic-Tac-ToeChecker.cs)|
