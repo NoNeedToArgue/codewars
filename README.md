@@ -7,6 +7,7 @@ Codewars
 | Rank | Kata | Solution |
 |---| ----- | -------- |
 |3|[Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7) | [C#](./csharp/BattleshipFieldValidator.cs)|
+|3|[Rail Fence Cipher: Encoding and Decoding](https://www.codewars.com/kata/58c5577d61aefcf3ff000081) | [C#](./csharp/RailFenceCipherEncodingAndDecoding.cs)|
 |4|[Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046) | [C#](./csharp/BreadcrumbGenerator.cs)|
 |4|[Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [C#](./csharp/Snail.cs)|
 |4|[Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f) | [C#](./csharp/SumByFactors.cs)|
